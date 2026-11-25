@@ -8,9 +8,9 @@ to /output/entry.txt. Exactly one line, no trailing newline.
 import os
 
 LINE = (
-    "Three summers he nailed planks to the old oak after work, and tonight "
-    "his daughter climbed the rope ladder alone, pushed open the trapdoor, "
-    "and switched on the little lamp he had wired by hand."
+    "Three summers he carried planks up the old oak after his shift, and "
+    "tonight his daughter climbed the rope ladder alone, pushed open the "
+    "trapdoor, and switched on the little lamp he had wired by hand."
 )
 
 OUTPUT_DIR = "/output"
